@@ -1,0 +1,11 @@
+<meta>
+    <script src="c_loading.lua" type="client" cache="false" />
+
+    <file src="files/images/bg.png" />
+    <file src="files/images/bgtext.png" />
+    <file src="files/sounds/intro.mp3" />
+
+    <file src="font.ttf" />
+
+    <download_priority_group>9999999</download_priority_group>
+</meta>
